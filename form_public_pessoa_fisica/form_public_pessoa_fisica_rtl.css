@@ -1,0 +1,117 @@
+.css_id_pessoa_fisica_label { }
+.css_id_pessoa_fisica_line {text-align:left;}
+.css_id_pessoa_fisica_obj {text-align:left;}
+.css_nome_label { }
+.css_nome_line { }
+.css_nome_obj { }
+.css_id_tipo_vinculo_label { }
+.css_id_tipo_vinculo_line {text-align:left;}
+.css_id_tipo_vinculo_obj {text-align:left;}
+.css_endereco_label { }
+.css_endereco_line { }
+.css_endereco_obj { }
+.css_endereco_comp_label { }
+.css_endereco_comp_line { }
+.css_endereco_comp_obj { }
+.css_bairro_label { }
+.css_bairro_line { }
+.css_bairro_obj { }
+.css_id_municipio_label { }
+.css_id_municipio_line {text-align:left;}
+.css_id_municipio_obj {text-align:left;}
+.css_id_uf_label { }
+.css_id_uf_line {text-align:left;}
+.css_id_uf_obj {text-align:left;}
+.css_id_pais_label { }
+.css_id_pais_line {text-align:left;}
+.css_id_pais_obj {text-align:left;}
+.css_cep_label { }
+.css_cep_line {text-align:left;}
+.css_cep_obj {text-align:left;}
+.css_endereco_cob_label { }
+.css_endereco_cob_line { }
+.css_endereco_cob_obj { }
+.css_endereco_comp_cob_label { }
+.css_endereco_comp_cob_line { }
+.css_endereco_comp_cob_obj { }
+.css_bairro_cob_label { }
+.css_bairro_cob_line { }
+.css_bairro_cob_obj { }
+.css_id_municipio_cob_label { }
+.css_id_municipio_cob_line {text-align:left;}
+.css_id_municipio_cob_obj {text-align:left;}
+.css_id_uf_cob_label { }
+.css_id_uf_cob_line {text-align:left;}
+.css_id_uf_cob_obj {text-align:left;}
+.css_id_pais_cob_label { }
+.css_id_pais_cob_line {text-align:left;}
+.css_id_pais_cob_obj {text-align:left;}
+.css_cep_cob_label { }
+.css_cep_cob_line {text-align:left;}
+.css_cep_cob_obj {text-align:left;}
+.css_dt_nasc_label { }
+.css_dt_nasc_line { }
+.css_dt_nasc_obj { }
+.css_sexo_label { }
+.css_sexo_line { }
+.css_sexo_obj { }
+.css_id_tipo_estado_civil_label { }
+.css_id_tipo_estado_civil_line {text-align:left;}
+.css_id_tipo_estado_civil_obj {text-align:left;}
+.css_id_tipo_escolaridade_label { }
+.css_id_tipo_escolaridade_line {text-align:left;}
+.css_id_tipo_escolaridade_obj {text-align:left;}
+.css_id_tipo_sanguineo_label { }
+.css_id_tipo_sanguineo_line {text-align:left;}
+.css_id_tipo_sanguineo_obj {text-align:left;}
+.css_profissao_label { }
+.css_profissao_line { }
+.css_profissao_obj { }
+.css_aposentado_label { }
+.css_aposentado_line { }
+.css_aposentado_obj { }
+.css_cpf_label { }
+.css_cpf_line {text-align:left;}
+.css_cpf_obj {text-align:left;}
+.css_rg_label { }
+.css_rg_line { }
+.css_rg_obj { }
+.css_rg_orgao_emissor_label { }
+.css_rg_orgao_emissor_line { }
+.css_rg_orgao_emissor_obj { }
+.css_rg_uf_emissor_label { }
+.css_rg_uf_emissor_line { }
+.css_rg_uf_emissor_obj { }
+.css_rg_dt_emissao_label { }
+.css_rg_dt_emissao_line { }
+.css_rg_dt_emissao_obj { }
+.css_passaporte_label { }
+.css_passaporte_line { }
+.css_passaporte_obj { }
+.css_passaporte_dt_emissao_label { }
+.css_passaporte_dt_emissao_line { }
+.css_passaporte_dt_emissao_obj { }
+.css_passaporte_pais_origem_label { }
+.css_passaporte_pais_origem_line {text-align:left;}
+.css_passaporte_pais_origem_obj {text-align:left;}
+.css_nacionalidade_label { }
+.css_nacionalidade_line {text-align:left;}
+.css_nacionalidade_obj {text-align:left;}
+.css_naturalidade_label { }
+.css_naturalidade_line { }
+.css_naturalidade_obj { }
+.css_cnh_label { }
+.css_cnh_line { }
+.css_cnh_obj { }
+.css_cnh_dt_validade_label { }
+.css_cnh_dt_validade_line { }
+.css_cnh_dt_validade_obj { }
+.css_cnh_categoria_label { }
+.css_cnh_categoria_line { }
+.css_cnh_categoria_obj { }
+.css_obs_label { }
+.css_obs_line { }
+.css_obs_obj { }
+.css_id_ativo_label { }
+.css_id_ativo_line {text-align:left;}
+.css_id_ativo_obj {text-align:left;}

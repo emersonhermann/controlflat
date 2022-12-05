@@ -1,0 +1,86 @@
+.css_public_pessoa_fisica_id_pessoa_fisica_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_id_pessoa_fisica_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_cpf_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_cpf_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_nome_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_nome_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_endereco_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_endereco_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_endereco_comp_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_endereco_comp_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_bairro_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_bairro_grid_line {vertical-align: top;text-align: right;}
+.css_id_municipio_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_id_municipio_grid_line {vertical-align: top;text-align: right;}
+.css_id_uf_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_id_uf_grid_line {vertical-align: top;text-align: right;}
+.css_id_pais_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_id_pais_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_cep_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_cep_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_endereco_cob_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_endereco_cob_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_endereco_comp_cob_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_endereco_comp_cob_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_bairro_cob_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_bairro_cob_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_id_municipio_cob_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_id_municipio_cob_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_id_uf_cob_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_id_uf_cob_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_id_pais_cob_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_id_pais_cob_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_cep_cob_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_cep_cob_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_dt_nasc_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_dt_nasc_grid_line {vertical-align: top;text-align: center;}
+.css_public_pessoa_fisica_sexo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_sexo_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_id_tipo_estado_civil_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_id_tipo_estado_civil_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_id_tipo_escolaridade_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_id_tipo_escolaridade_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_id_tipo_sanguineo_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_id_tipo_sanguineo_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_profissao_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_profissao_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_aposentado_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_aposentado_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_rg_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_rg_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_rg_orgao_emissor_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_rg_orgao_emissor_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_rg_uf_emissor_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_rg_uf_emissor_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_rg_dt_emissao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_rg_dt_emissao_grid_line {vertical-align: top;text-align: center;}
+.css_public_pessoa_fisica_passaporte_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_passaporte_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_passaporte_dt_emissao_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_passaporte_dt_emissao_grid_line {vertical-align: top;text-align: center;}
+.css_public_pessoa_fisica_passaporte_pais_origem_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_passaporte_pais_origem_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_nacionalidade_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_nacionalidade_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_naturalidade_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_naturalidade_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_cnh_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_cnh_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_cnh_dt_validade_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_cnh_dt_validade_grid_line {vertical-align: top;text-align: center;}
+.css_public_pessoa_fisica_cnh_categoria_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_cnh_categoria_grid_line {vertical-align: top;text-align: right;}
+.css_obs_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_obs_grid_line {vertical-align: top;text-align: right;}
+.css_public_pessoa_fisica_id_tipo_vinculo_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_public_pessoa_fisica_id_tipo_vinculo_grid_line {vertical-align: top;text-align: right;}
+.css_id_ativo_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_ativo_grid_line {vertical-align: top;text-align: right;}
+.css_dt_cadastro_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_dt_cadastro_grid_line {vertical-align: top;text-align: center;}
+.css_dt_atualiza_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_dt_atualiza_grid_line {vertical-align: top;text-align: center;}
+.css_usu_cadastro_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_usu_cadastro_grid_line {vertical-align: top;text-align: right;}
+.css_usu_atualiza_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_usu_atualiza_grid_line {vertical-align: top;text-align: right;}
